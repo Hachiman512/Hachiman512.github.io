@@ -49,7 +49,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: publications
     content:
       title: Featured Publications
       filters:
