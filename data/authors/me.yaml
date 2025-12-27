@@ -81,12 +81,7 @@ experience:
     start: 2023-02-01
     end: 2023-04-01
     summary: |
-      Analysis of identified particle production can be a useful tool to measure the bulk properties of 
-      the medium produced in the heavy ion collisions at high energies. As a part of preparations for 
-      the start of NICA collider with MPD experiment designed for the studies of hot and dense nuclear 
-      matter we analyse MC model data on identified particle production at a set of different collision 
-      energies. The chemical and kinetic freeze-out parameters as a functions of collision energy and 
-      centrality should be calculated. 
+      Study of bulk properties of the medium produced in heavy ion collisions at MPD.
     button:
       text: View the report
       url: https://interest.jinr.ru/uploads/report_files/report_student_1408_project_230.pdf
