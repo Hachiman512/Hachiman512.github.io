@@ -51,7 +51,7 @@ sections:
     id: papers
     content:
       title: Publications
-      text: ''
+#      text: ''
       filters:
         folders:
           - publications
@@ -61,7 +61,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent Talk
       filters:
         folders:
           - events

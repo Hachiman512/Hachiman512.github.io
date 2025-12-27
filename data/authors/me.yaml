@@ -17,13 +17,11 @@ role: Senior Research Fellow
 bio: |
   I, Anil Sharma, am a senior research fellow at UGC-DAE Consortium of Scientific Research,
   Kolkata Centre. My research field is nuclear structure especially gamma-ray spectroscopy.
-  Recently, our paper on 69Ga nucleus accepted in Physics Review C journal where we established the
-  collective excitations builds upon the single particle excitation scheme. Our group work on 
-  the theoretical shell model calculations(SMC) as well along with the experimental studies.  
+  Our group work on the theoretical shell model calculations(SMC) as well along with the experimental studies.  
 
 affiliations:
-  - name: UGC-DAE Consoritum for Scientific Research, Kolkata Centre
-    url: https://iuc.res.in
+  - name: UGC-DAE CSR, Kolkata Centre
+    url: https://www.iuc.res.in
 
 links:
   - icon: at-symbol
@@ -47,7 +45,7 @@ interests:
 
 education:
   - degree: PhD in Nuclear Physics
-    institution: UGC-DAE Consoritum for Scientific Research, Kolkata Centre
+    institution: UGC-DAE CSR, Kolkata Centre
     start: 2023-03-19
     end: 2028-03-19
     summary: |
