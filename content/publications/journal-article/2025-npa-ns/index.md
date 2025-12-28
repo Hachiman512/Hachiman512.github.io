@@ -28,7 +28,7 @@ abstract: his paper reports cross-section measurements of the 𝑛𝑎𝑡.Sb(�
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Excitation functions in natural Sb
+- Shape and triaxiality in Tb
 featured: false
 
 # Standard identifiers for auto-linking
