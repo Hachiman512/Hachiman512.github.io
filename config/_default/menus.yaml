@@ -13,6 +13,6 @@ main:
   - name: Experience
     url: experience/
     weight: 20
-  - name: Talks
+  - name: Talks and Posters
     url: events/
     weight: 30
