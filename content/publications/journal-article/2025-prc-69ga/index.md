@@ -28,9 +28,14 @@ tags:
 - 69Ga transitional behaviour
 featured: false
 
+# Standard identifiers for auto-linking
+hugoblox:
+  ids:
+    doi: https://doi.org/10.1103/x7qb-2m4w
+    
 links:
-  - type: pdf
-    url: 
+#  - type: pdf
+#    url: 
   - type: DOI
     url: https://doi.org/10.1103/x7qb-2m4w
 

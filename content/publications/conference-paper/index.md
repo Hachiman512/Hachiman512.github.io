@@ -38,14 +38,14 @@ tags:
 featured: true
 
 # Standard identifiers for auto-linking
-#hugoblox:
-#  ids:
-#    doi: 10.5555/123456
+hugoblox:
+  ids:
+    doi: https://sympnp.org/proceedings/
 
 # Custom links
 links:
-  - type: pdf
-    url: ""
+#  - type: pdf
+#    url: ""
   - type: Proceedings(2024)
     url: https://sympnp.org/proceedings/
 #  - type: dataset
