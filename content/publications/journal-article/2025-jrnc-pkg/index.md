@@ -22,16 +22,7 @@ publication_types: ["article-journal"]
 publication: "*Nuclear Physics A*"
 publication_short: ""
 
-abstract: his paper reports cross-section measurements of the 𝑛𝑎𝑡.Sb(𝛼,xn)121,123,124I reactions, at energies
-𝐸 𝛼 = 40-50 MeV, using the target activation technique. The experimental results have been
-compared with theoretical excitation functions calculated in the Talys-2.0 framework. The
-reaction model parameters such as the Optical Model Potential (OMP), Level Density (LD), Pre-
-equilibrium Emission (PE) and Photon Strength Function (PSF) have been optimized for maximum
-overlap between the calculated and the experimental cross sections. Such endeavors are expected
-to facilitate insights and understanding of the different reaction mechanisms and associated
-parameters that impact the yields of the products. The validated datasets, resulting therefrom,
-could go a long way in deciding on the conditions for producing radioisotopes of utility in varied
-domains such as medicine and industry.
+abstract: his paper reports cross-section measurements of the 𝑛𝑎𝑡.Sb(𝛼,xn)121,123,124I reactions, at energies 𝐸 = 40-50 MeV, using the target activation technique. The experimental results have been compared with theoretical excitation functions calculated in the Talys-2.0 framework. The reaction model parameters such as the Optical Model Potential (OMP), Level Density (LD), Pre-equilibrium Emission (PE) and Photon Strength Function (PSF) have been optimized for maximum overlap between the calculated and the experimental cross sections. Such endeavors are expected to facilitate insights and understanding of the different reaction mechanisms and associated parameters that impact the yields of the products. The validated datasets, resulting therefrom, could go a long way in deciding on the conditions for producing radioisotopes of utility in varied domains such as medicine and industry.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
