@@ -1,0 +1,6 @@
+/* Hide Hugo Blox attribution footer */
+.hb-footer-attribution,
+.footer-attribution,
+a[href*="hugoblox.com"] {
+  display: none !important;
+}
