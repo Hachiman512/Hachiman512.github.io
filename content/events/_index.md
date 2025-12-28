@@ -1,10 +1,12 @@
 ---
-title: Recent Talk and poster
+title: Recent Talks and posters
 cms_exclude: true
 #url: talk
 
 # View
-view: card
+#view: card
+view: article-grid
+columns: 2
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
