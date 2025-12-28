@@ -1,8 +1,8 @@
 ---
 title: "Excitation functions of (𝛼,xn) reactions in natural Sb"
 authors:
-- Pankaj K. Giri
-- Sandipan Dasgupta
+- Dr. Pankaj K. Giri
+- Dr. Sandipan Dasgupta
 - me
 author_notes:
 - "Author"
