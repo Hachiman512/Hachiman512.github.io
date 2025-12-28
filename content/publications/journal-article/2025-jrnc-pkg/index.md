@@ -31,11 +31,16 @@ tags:
 - Excitation functions in natural Sb
 featured: false
 
+# Standard identifiers for auto-linking
+hugoblox:
+  ids:
+    doi: https://doi.org/10.1016/j.nuclphysa.2025.123171
+    
 links:
 #  - type: pdf
 #    url: 
-  - type: DOI
-    url: https://doi.org/10.1016/j.nuclphysa.2025.123171
+  - type: Journal
+    url: https://www.sciencedirect.com/science/article/pii/S0375947425001575?via%3Dihub
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

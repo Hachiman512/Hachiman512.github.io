@@ -24,7 +24,7 @@ publishDate: '2024-12-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the DAE Symp. on Nucl. Phys. 68
+publication: Proceedings of the DAE Symp. on Nucl. Phys. 68 (2024)
 #publication_short: In *ICW*
 
 abstract: 

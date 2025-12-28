@@ -36,8 +36,8 @@ hugoblox:
 links:
 #  - type: pdf
 #    url: 
-  - type: DOI
-    url: https://doi.org/10.1103/x7qb-2m4w
+  - type: Journal
+    url: https://journals.aps.org/prc/accepted/10.1103/x7qb-2m4w
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
